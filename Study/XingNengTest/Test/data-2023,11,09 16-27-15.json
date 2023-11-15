@@ -1,0 +1,2933 @@
+{
+  "status": 200,
+  "message": "²Ù×÷³É¹¦",
+  "data": [
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "end",
+      "sumDuration": 144,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "resourceReason",
+      "sumDuration": 74,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "minServiceLevelDemandQuantity",
+      "sumDuration": 42,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "baseCostPerQuantity",
+      "sumDuration": 121,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "detectingReleaseInventories",
+      "sumDuration": 172,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "inventoryLevelEnd",
+      "sumDuration": 761,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "periodTasksOnPRS",
+      "sumDuration": 90,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "isPlannedInfinite",
+      "sumDuration": 1,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "parentUnit",
+      "sumDuration": 2,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "currentInventories",
+      "sumDuration": 53,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "productionRoutings",
+      "sumDuration": 34,
+      "times": 3982
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "isTestFreeToProductsMap",
+      "sumDuration": 6,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "planOrderQuantity",
+      "sumDuration": 187,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingIdWithPvToProductRoutingMap",
+      "sumDuration": 4,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "detectingReleaseQuantity",
+      "sumDuration": 110,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "startDate",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "canBeReleased",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "isFinishedProductStockingPoint",
+      "sumDuration": 21,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "unitAvailabilities",
+      "sumDuration": 0,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "productId",
+      "sumDuration": 107,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "availableExtraCapacityDuration",
+      "sumDuration": 6,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "minOrderQuantity",
+      "sumDuration": 70,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "remainNormalCapacityDuration",
+      "sumDuration": 3,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "startDate",
+      "sumDuration": 8,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "supplyChainId",
+      "sumDuration": 21,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productionRoutings",
+      "sumDuration": 92,
+      "times": 11916
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "stockingPointId",
+      "sumDuration": 19,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "billOfMaterials",
+      "sumDuration": 32,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToNewSuppliesMap",
+      "sumDuration": 74,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToUnitPeriodMap",
+      "sumDuration": 2,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitCapacity",
+      "methodName": "shiftPattern",
+      "sumDuration": 0,
+      "times": 4
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "hasChild",
+      "sumDuration": 13,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isBeforeStartOfPlanningHorizon",
+      "sumDuration": 115,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "materialReason",
+      "sumDuration": 88,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToUnitPeriodTimeMap",
+      "sumDuration": 2,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinition",
+      "methodName": "next",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "allowedUnit",
+      "sumDuration": 91,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "childrenPISPIP",
+      "sumDuration": 777,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinition",
+      "methodName": "lastPeriod",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "inventoryInfoFromPispip",
+      "sumDuration": 84,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "pispip2ddMap",
+      "sumDuration": 53,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "costPerQuantity",
+      "sumDuration": 41,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "stockingPoint",
+      "sumDuration": 104,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "periodTasks",
+      "sumDuration": 42,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "allowedUnitName",
+      "sumDuration": 19,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "detectInventoryLevelEnd",
+      "sumDuration": 310,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "hasNoInputAndOutputs",
+      "sumDuration": 17,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "releasePISPIP",
+      "sumDuration": 476,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "duration",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "targetlnventorySpecification",
+      "sumDuration": 199,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "parentUnitId",
+      "sumDuration": 2,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "isMaterialConstraint",
+      "sumDuration": 14,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "isRemainNormalCapacityZero",
+      "sumDuration": 6,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "isFinishedProductInGroupToProductsMap",
+      "sumDuration": 4,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "pispipsForDependentDemand",
+      "sumDuration": 136,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "targetInventorySpecifications",
+      "sumDuration": 31,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingIdWithoutPvToProductRoutingMap",
+      "sumDuration": 3,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "quantityOut",
+      "sumDuration": 112,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "mapOfMaterialDuration",
+      "sumDuration": 75,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "availableNormalCapacityDuration",
+      "sumDuration": 8,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductStatisticLevel",
+      "methodName": "parentStatisticAttribute",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "InputOutputProduct",
+      "methodName": "productRoutingStepId",
+      "sumDuration": 26,
+      "times": 6934
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "next",
+      "sumDuration": 172,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "childrenUnit",
+      "sumDuration": 1,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "allowedUnitId",
+      "sumDuration": 29,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "childrenProduct",
+      "sumDuration": 8650,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "oee",
+      "sumDuration": 2,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "salesOrders",
+      "sumDuration": 50,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productIdToProductsMap",
+      "sumDuration": 9,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "capacityLoadPercentage",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "lotSize",
+      "sumDuration": 18,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "originalSalesDemandQuantityForN2",
+      "sumDuration": 23,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "originalSalesDemandQuantityForN3",
+      "sumDuration": 33,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "stockingPointName",
+      "sumDuration": 28,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "originalSalesDemandQuantityForN1",
+      "sumDuration": 18,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "childUnitPeriods",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "minInputQuantity",
+      "sumDuration": 116,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "isLast",
+      "sumDuration": 9,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "capacityType",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "laterFulfilledDemandQuantityForOG",
+      "sumDuration": 206,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "start",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "end",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "usedTotalCapacityDuration",
+      "sumDuration": 25,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isLead",
+      "sumDuration": 89,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "planOrderStep",
+      "sumDuration": 118,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "unitId",
+      "sumDuration": 8,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "releaseInventoryLevelEnd",
+      "sumDuration": 345,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "inventoryLevelStart",
+      "sumDuration": 597,
+      "times": 77454
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "hasBatchConstraint",
+      "sumDuration": 29,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingStepIdWithPvToProductRoutingStep",
+      "sumDuration": 4,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "productRouting",
+      "sumDuration": 92,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "productIdOfOutput",
+      "sumDuration": 137,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "purchaseOrdersInReleasePisp",
+      "sumDuration": 166,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "capacityType",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "isFreeAvailableCapacityZero",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "purchaseRequestsInDetectPisp",
+      "sumDuration": 177,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "childUnitPeriodTimes",
+      "sumDuration": 16,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "asLeadNextStepInPeriod",
+      "sumDuration": 62,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "planOrderSteps",
+      "sumDuration": 30,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "previous",
+      "sumDuration": 16,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "isFirst",
+      "sumDuration": 7,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "preferenceCost",
+      "sumDuration": 42,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isUnitFreeCapacityUnFillMinOQ",
+      "sumDuration": 53,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "isUndetectedStockingPoint",
+      "sumDuration": 212,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "materialReason",
+      "sumDuration": 289,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingSteps",
+      "sumDuration": 1,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "batchConstraintMonthNum",
+      "sumDuration": 12,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToUnitPeriodInfiniteMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "canPurchaseOutsideToProductsMap",
+      "sumDuration": 5,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutings",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "hasNoUnits",
+      "sumDuration": 9,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "isForProduction",
+      "sumDuration": 27,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "start",
+      "sumDuration": 80,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "unfulfilledReason",
+      "sumDuration": 158,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "hasMaxOrderQuantityInKT",
+      "sumDuration": 38,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "billOfMaterialsAsRM",
+      "sumDuration": 25,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductStatisticLevel",
+      "methodName": "hasParent",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingStepIdToPRSORFromPPMap",
+      "sumDuration": 3,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "nextPeriodDefinition",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInPeriods",
+      "sumDuration": 251,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "materialReason",
+      "sumDuration": 334,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "allFulfilledDemandQuantityForOG",
+      "sumDuration": 134,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "supplyWithLotSize",
+      "sumDuration": 23,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToPISPFromDataMap",
+      "sumDuration": 10,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "start",
+      "sumDuration": 160,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "supplyChainId",
+      "sumDuration": 1,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "isSemiFinishedProductStockingPoint",
+      "sumDuration": 41,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "firstPRSOU",
+      "sumDuration": 13,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "TargetlnventorySpecification",
+      "methodName": "productId",
+      "sumDuration": 0,
+      "times": 3
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "startDate",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "stockingPointId",
+      "sumDuration": 119,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinition",
+      "methodName": "start",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "unitAvailability",
+      "sumDuration": 2,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "freeCapacityDuration",
+      "sumDuration": 16,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "minInputQuantity",
+      "sumDuration": 19,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "hasNoOutputs",
+      "sumDuration": 7,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "DailyPeriod",
+      "methodName": "duration",
+      "sumDuration": 1,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "unitName",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "batchConstraintMonthNum",
+      "sumDuration": 29,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "leadSameStepInPeriods",
+      "sumDuration": 536,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "isBeforeStartOfPlanningHorizon",
+      "sumDuration": 1,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "periodTasks",
+      "sumDuration": 42,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "hasMinOrderQuantity",
+      "sumDuration": 12,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "usedNormalCapacityDuration",
+      "sumDuration": 6,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "productRoutingStep",
+      "sumDuration": 85,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isUnitAvailableCapacityZero",
+      "sumDuration": 138,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "newSupplies",
+      "sumDuration": 379,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToResourceGroupFromPPMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChain",
+      "methodName": "parentSupplyChain",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "isBeforeStartOfPlanningHorizon",
+      "sumDuration": 158,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "productRoutingStepId",
+      "sumDuration": 10,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "product",
+      "sumDuration": 85,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "startDate",
+      "sumDuration": 218,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "salesDemands",
+      "sumDuration": 154,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "shiftPattern",
+      "sumDuration": 2,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "unitId",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "unitPeriodQuantities",
+      "sumDuration": 1,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToRoutingStepFromPPMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "isTransportRouting",
+      "sumDuration": 14,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "parentUnitIdToUnitMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "hasLotSize",
+      "sumDuration": 20,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "isBeforeStartOfPlanningHorizon",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinitionSequence",
+      "methodName": "end",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "periodNr",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToPISPFromStatisticMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "next",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "totalOriginalSalesDemandQuantity",
+      "sumDuration": 33,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "productNameOfOutput",
+      "sumDuration": 99,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "isDetectionRouting",
+      "sumDuration": 9,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "usedCapacity",
+      "sumDuration": 149,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "unitIdToSupplyChainUnitsFromPPMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "dependentDemands",
+      "sumDuration": 289,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "isSemiFinishedProductStockingPoint",
+      "sumDuration": 79,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "scp",
+      "sumDuration": 10,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "periodTaskInOwner",
+      "sumDuration": 127,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "salesDemands",
+      "sumDuration": 28,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "asLeadSameStepInPeriod",
+      "sumDuration": 325,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "isBeforeStartOfPlanningHorizon",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "quantity",
+      "sumDuration": 57,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "purchaseRequestReleaseQuantity",
+      "sumDuration": 130,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "duration",
+      "sumDuration": 4,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "salesDemandQuantity",
+      "sumDuration": 404,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "StockingPoint",
+      "methodName": "isFinishedProductStockingPoint",
+      "sumDuration": 0,
+      "times": 8
+    },
+    {
+      "sceneId": "10",
+      "className": "DailyPeriod",
+      "methodName": "endDate",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "allProductRoutings",
+      "sumDuration": 43,
+      "times": 3982
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "planOrders",
+      "sumDuration": 28,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "productId",
+      "sumDuration": 93,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "hasLotSizeInThisPeriod",
+      "sumDuration": 71,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "periods",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "inventoryInfo",
+      "sumDuration": 149,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productIdToProductsFromAutoMap",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "defaultShiftPattern",
+      "sumDuration": 2,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "productRoutingSteps",
+      "sumDuration": 21,
+      "times": 7926
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "stockingPointName",
+      "sumDuration": 119,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToProductRoutingStepOnResourceFromPPMap",
+      "sumDuration": 4,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "resourceReason",
+      "sumDuration": 421,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "productionCycleTime",
+      "sumDuration": 120,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "start",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "iopMap",
+      "sumDuration": 23,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "outputProducts",
+      "sumDuration": 38,
+      "times": 7926
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "supplyWithMOQ",
+      "sumDuration": 21,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "productRoutingStepOnUnits",
+      "sumDuration": 19,
+      "times": 6939
+    },
+    {
+      "sceneId": "10",
+      "className": "BillOfMaterial",
+      "methodName": "rawMaterial",
+      "sumDuration": 13,
+      "times": 992
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingIdToProductRoutingStepOnResourceFromPPMap",
+      "sumDuration": 10,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "unitIdToSupplyChainUnitsFromAutoMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "inventoryFlagGroup",
+      "sumDuration": 105,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "freeCapacity",
+      "sumDuration": 265,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "dependentDemandSet",
+      "sumDuration": 68,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "isFinishedProductStockingPoint",
+      "sumDuration": 124,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "minOrderQuantity",
+      "sumDuration": 11,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "resourceFlag",
+      "sumDuration": 387,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "productId",
+      "sumDuration": 171,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "asLeadPreviousStepInPeriod",
+      "sumDuration": 81,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "prsMap",
+      "sumDuration": 11,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToProductRoutingFromPPMap",
+      "sumDuration": 3,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "unitPeriods",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductStatisticLevel",
+      "methodName": "level",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "unitId",
+      "sumDuration": 8,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "inventorySupplyQuantity",
+      "sumDuration": 362,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "usedExtraCapacityDuration",
+      "sumDuration": 6,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "hasChildren",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productInStockingPoints",
+      "sumDuration": 3,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "pispip2NsMap",
+      "sumDuration": 81,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "supplyChainUnits",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "dependentDemandQuantity",
+      "sumDuration": 338,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productIdToProductsFromBOMMap",
+      "sumDuration": 10,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "isFreeAvailableCapacityZero",
+      "sumDuration": 10,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "nrOfUnitsOpen",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "materialFlag",
+      "sumDuration": 92,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToResourceFromPPMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "isRawMaterialStockingPoint",
+      "sumDuration": 93,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "fulfilledSalesDemandQuantity",
+      "sumDuration": 100,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "supplyQuantity",
+      "sumDuration": 448,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "end",
+      "sumDuration": 144,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "InputOutputProduct",
+      "methodName": "isMaterialConstraint",
+      "sumDuration": 30,
+      "times": 6934
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "unitId",
+      "sumDuration": 162,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "hasMinOrderQuantityInKT",
+      "sumDuration": 41,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "quantityToProcess",
+      "sumDuration": 45,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "isRawMaterialStockingPoint",
+      "sumDuration": 23,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "InputOutputProduct",
+      "methodName": "product",
+      "sumDuration": 43,
+      "times": 6934
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "endDate",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "isLeadRouting",
+      "sumDuration": 23,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinition",
+      "methodName": "end",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "statisticProductInStockingPoints",
+      "sumDuration": 48,
+      "times": 1993
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "startDate",
+      "sumDuration": 134,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "firstPriority",
+      "sumDuration": 60,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isLastPeriodTask",
+      "sumDuration": 88,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "statisticStockingPoints",
+      "sumDuration": 51,
+      "times": 1993
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "needsToBeSupplied",
+      "sumDuration": 15,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "inspectionDuration",
+      "sumDuration": 34,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductStatisticLevel",
+      "methodName": "productParentStatisticLevel",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "inventoryFlagFromPispip",
+      "sumDuration": 59,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "endDate",
+      "sumDuration": 106,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "allowedUnitInfo",
+      "sumDuration": 23,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "monthlyDeliveredQuantityN",
+      "sumDuration": 21,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "purchaseOrdersInDetectPisp",
+      "sumDuration": 186,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "inventoryFlag",
+      "sumDuration": 796,
+      "times": 55594
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "hasChildren",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "periodTasks",
+      "sumDuration": 14,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "hasChildren",
+      "sumDuration": 417,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "allProductRoutings",
+      "sumDuration": 49,
+      "times": 11916
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "isRemainNormalCapacityZero",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "pispMap",
+      "sumDuration": 25,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "productCycleTime",
+      "sumDuration": 28,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "isAvailableTotalCapacityZero",
+      "sumDuration": 7,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "next",
+      "sumDuration": 425,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "currentInventoryQuantity",
+      "sumDuration": 35,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "hasNoInputs",
+      "sumDuration": 13,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "end",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "StockingPoint",
+      "methodName": "isSemiFinishedProductStockingPoint",
+      "sumDuration": 0,
+      "times": 8
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "extraCapacityDuration",
+      "sumDuration": 42,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "hasNoSteps",
+      "sumDuration": 14,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStepOnUnit",
+      "methodName": "isLead",
+      "sumDuration": 17,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "totalQuantityOfSameStepInPeriod",
+      "sumDuration": 98,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "hasChildren",
+      "sumDuration": 3,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "periodTasks",
+      "sumDuration": 7,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "maxOrderQuantity",
+      "sumDuration": 73,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "capacityLoadPercentage",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "isPlannedInfinite",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "productName",
+      "sumDuration": 109,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "routingNrToRoutingStepFromPPMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "targetInventoryLevel",
+      "sumDuration": 323,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinitionSequence",
+      "methodName": "start",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "InputOutputProduct",
+      "methodName": "scp",
+      "sumDuration": 24,
+      "times": 6934
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "newSupplyQuantity",
+      "sumDuration": 317,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "periodDefinitionSequence",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productName",
+      "sumDuration": 14,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "parentProduct",
+      "sumDuration": 15535,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "endDate",
+      "sumDuration": 9,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isUnitGroupAvailableCapacityZero",
+      "sumDuration": 201,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "supplyChainPlanner",
+      "sumDuration": 129,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "nowFulfilledDemandQuantityForOG",
+      "sumDuration": 224,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "inputOutputProducts",
+      "sumDuration": 4,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "previous",
+      "sumDuration": 215,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "asLeadPreviousStepInPeriodToPeriodTaskMap",
+      "sumDuration": 51,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "resourceFlag",
+      "sumDuration": 108,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "nrOfUnitsOpen",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinition",
+      "methodName": "firstPeriod",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "inputProducts",
+      "sumDuration": 30,
+      "times": 6934
+    },
+    {
+      "sceneId": "10",
+      "className": "NewSupply",
+      "methodName": "productRouting",
+      "sumDuration": 95,
+      "times": 27887
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "productRoutingId",
+      "sumDuration": 10,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "releasePISP",
+      "sumDuration": 59,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "childrenPISP",
+      "sumDuration": 119,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "isUndetectedStockingPoint",
+      "sumDuration": 15,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "unitPeriodInfinites",
+      "sumDuration": 1,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "supplyChainPlanner",
+      "sumDuration": 11,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "availableTotalCapacityDuration",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "resourceFlag",
+      "sumDuration": 595,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "originalSalesDemands",
+      "sumDuration": 143,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInPeriodMonth0",
+      "sumDuration": 160,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "originalSalesDemandQuantity",
+      "sumDuration": 108,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInPeriodMonth1",
+      "sumDuration": 113,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInMonths",
+      "sumDuration": 33,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "previousPeriodDefinition",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInPeriodMonth2",
+      "sumDuration": 104,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInPeriodMonth3",
+      "sumDuration": 86,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "isParentValid",
+      "sumDuration": 9,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "lotSize",
+      "sumDuration": 64,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "hasDefinedLeadPRSOU",
+      "sumDuration": 4,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "plantId",
+      "sumDuration": 50,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "product",
+      "sumDuration": 141,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isUnitFreeCapacityUnFillLotSize",
+      "sumDuration": 58,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToPeriodTaskMap",
+      "sumDuration": 59,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "endDate",
+      "sumDuration": 1,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "pispipMap",
+      "sumDuration": 109,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "StockingPoint",
+      "methodName": "isRawMaterialStockingPoint",
+      "sumDuration": 0,
+      "times": 8
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "unitCapacities",
+      "sumDuration": 2,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "originalSalesDemandQuantityForN",
+      "sumDuration": 35,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "productRouting",
+      "sumDuration": 104,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChain",
+      "methodName": "isValidData",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "hasMaxOrderQuantity",
+      "sumDuration": 7,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "normalCapacityDuration",
+      "sumDuration": 71,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "newSupplies",
+      "sumDuration": 347,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "hasChildToProductsMap",
+      "sumDuration": 16,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToDependentDemandsMap",
+      "sumDuration": 50,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInMonth3",
+      "sumDuration": 12,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productId",
+      "sumDuration": 16,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInMonth2",
+      "sumDuration": 7,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInMonth1",
+      "sumDuration": 13,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "productInStockingPointInMonth0",
+      "sumDuration": 27,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "unitIdToUnitMap",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "unitPeriodTimes",
+      "sumDuration": 1,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "allowedUnitInfos",
+      "sumDuration": 35,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "BillOfMaterial",
+      "methodName": "product",
+      "sumDuration": 10,
+      "times": 992
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "hasBatchConstraint",
+      "sumDuration": 26,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "InputOutputProduct",
+      "methodName": "productInStockingPoint",
+      "sumDuration": 102,
+      "times": 6934
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "supplyChainPlanner",
+      "sumDuration": 25,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "purchaseRequestsInReleasePisp",
+      "sumDuration": 207,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "targetlnventorySpecificationMapOfOwner",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToWorkShopFromPPMap",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductionVersion",
+      "methodName": "validFlag",
+      "sumDuration": 5,
+      "times": 995
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "isSemiProductInGroupToProductsMap",
+      "sumDuration": 5,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "materialFlag",
+      "sumDuration": 265,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "productInStockingPoints",
+      "sumDuration": 22,
+      "times": 3975
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "targetInQuantity",
+      "sumDuration": 135,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "maxOrderQuantityInKT",
+      "sumDuration": 37,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "hasMinOQInThisPeriod",
+      "sumDuration": 44,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "ownerToUnitCapacityMap",
+      "sumDuration": 1,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingStepOnUnits",
+      "sumDuration": 2,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "periodTasks",
+      "sumDuration": 53,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "planOrder",
+      "sumDuration": 58,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "jointIdToPISPMap",
+      "sumDuration": 14,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "fulfilledDemandQuantity",
+      "sumDuration": 274,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "materialFlag",
+      "sumDuration": 537,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "prsouMap",
+      "sumDuration": 10,
+      "times": 2
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "billOfMaterials",
+      "sumDuration": 20,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductStatisticLevel",
+      "methodName": "productChildStatisticLevels",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "upToPeriodTasksMap",
+      "sumDuration": 51,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "unitIdOfProductRouting",
+      "sumDuration": 97,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "isJitMaterial",
+      "sumDuration": 5,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "detectPISPIP",
+      "sumDuration": 530,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "postponedSalesDemandsForOriginal",
+      "sumDuration": 129,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "TargetlnventorySpecification",
+      "methodName": "stockingPointId",
+      "sumDuration": 0,
+      "times": 3
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "fulfilledDependentDemandQuantity",
+      "sumDuration": 250,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "moqFlag",
+      "sumDuration": 363,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "inventoryInfo",
+      "sumDuration": 350,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodDefinition",
+      "methodName": "previous",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "minOrderQuantityInKT",
+      "sumDuration": 40,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "supplyChainPlanner",
+      "sumDuration": 7,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "utilization",
+      "sumDuration": 6,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "leadNextStepInPeriods",
+      "sumDuration": 88,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "parentUnitId",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "isSupplierRouting",
+      "sumDuration": 16,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "next",
+      "sumDuration": 9,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productIdToProductRoutingsMap",
+      "sumDuration": 13,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "purchaseOrderReleaseQuantity",
+      "sumDuration": 103,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "detectPISP",
+      "sumDuration": 69,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "dependentDemandGroup",
+      "sumDuration": 85,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "duration",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "DailyPeriod",
+      "methodName": "startDate",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "Product",
+      "methodName": "purchaseDuration",
+      "sumDuration": 13,
+      "times": 1991
+    },
+    {
+      "sceneId": "10",
+      "className": "DependentDemand",
+      "methodName": "inventoryFlagSet",
+      "sumDuration": 137,
+      "times": 20797
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "utilization",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "unitName",
+      "sumDuration": 2,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "asLeadNextStepInPeriodToPeriodTaskMap",
+      "sumDuration": 57,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRoutingStep",
+      "methodName": "inputOutputProducts",
+      "sumDuration": 54,
+      "times": 7926
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodInfinite",
+      "methodName": "supplyChainPlanner",
+      "sumDuration": 0,
+      "times": 35
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "DeliveredInventories",
+      "sumDuration": 20,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "childUnitPeriods",
+      "sumDuration": 17,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "resourceReason",
+      "sumDuration": 549,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "planOrders",
+      "sumDuration": 1375,
+      "times": 83412
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "totalCapacityDuration",
+      "sumDuration": 5,
+      "times": 1330
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "lotSizeInKT",
+      "sumDuration": 68,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingStepOnUnitIdWithPvToPRSOMap",
+      "sumDuration": 3,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "period",
+      "sumDuration": 84,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPointInPeriod",
+      "methodName": "endDate",
+      "sumDuration": 211,
+      "times": 41706
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "isJitMaterial",
+      "sumDuration": 18,
+      "times": 5958
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductInStockingPoint",
+      "methodName": "needProductionInBatch",
+      "sumDuration": 755,
+      "times": 11916
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "isAvailableForOptimization",
+      "sumDuration": 38,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "Period",
+      "methodName": "previous",
+      "sumDuration": 0,
+      "times": 7
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "productRoutingIdWithPvToProductRoutingFromAutoMap",
+      "sumDuration": 11,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "leadPreviousStepInPeriods",
+      "sumDuration": 162,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainUnit",
+      "methodName": "unitPeriods",
+      "sumDuration": 2,
+      "times": 195
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "previous",
+      "sumDuration": 322,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "ProductRouting",
+      "methodName": "maxOrderQuantity",
+      "sumDuration": 10,
+      "times": 3963
+    },
+    {
+      "sceneId": "10",
+      "className": "PeriodTask",
+      "methodName": "dependentDemands",
+      "sumDuration": 328,
+      "times": 27741
+    },
+    {
+      "sceneId": "10",
+      "className": "SupplyChainPlanner",
+      "methodName": "products",
+      "sumDuration": 0,
+      "times": 1
+    },
+    {
+      "sceneId": "10",
+      "className": "UnitPeriodTime",
+      "methodName": "end",
+      "sumDuration": 4,
+      "times": 1330
+    }
+  ],
+  "errors": null
+}
