@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.report {
+    width: 60%;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.report h1 {
+    text-align: center;
+}
+
+.report p {
+    line-height: 1.6;
+}

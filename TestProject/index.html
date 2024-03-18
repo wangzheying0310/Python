@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试报告</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+
+</head>
+<body>
+    <div class="report">
+        <h1>测试报告</h1>
+        <p id="currentTime"><strong>测试日期：</strong>2023-07-04</p>
+        <p><strong>测试人员：</strong>张三</p>
+        <p><strong>测试结果：</strong>所有功能均通过测试，没有发现任何bug。</p>
+    </div>
+    <script>
+        function getCurrentTime() {
+            var now = new Date();
+            var hours = now.getHours();
+            var minutes = now.getMinutes();
+            var seconds = now.getSeconds();
+            if (hours < 10) {
+                hours = '0' + hours;
+            }
+            if (minutes < 10) {
+                minutes = '0' + minutes;
+            }
+            if (seconds < 10) {
+                seconds = '0' + seconds;
+            }
+            return hours + ':' + minutes + ':' + seconds;
+        }
+
+        document.getElementById('currentTime').innerHTML = getCurrentTime();
+    </script>
+</body>
+</html>
