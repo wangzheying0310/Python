@@ -1,0 +1,63 @@
+# -- coding:utf-8 --
+import requests
+from datetime import datetime, timedelta
+
+
+class RequestHandler:
+    def __init__(self):
+        """session管理器"""
+        self.session = requests.session()
+
+    def visit(self, method, url, params=None, data=None, json=None, headers=None, **kwargs):
+        return self.session.request(method, url, params=params, data=data, json=json, headers=headers, **kwargs)
+
+    def close_session(self):
+        """关闭session"""
+
+
+if __name__ == '__main__':
+    # 万能登录请求
+    url = 'http://172.16.5.10/apim/v2/auth/login'
+    payload = {
+        "userNo": "WZY",
+        "passWord": "MTIzNDU2",
+        "verifierCode": ""
+    }
+    req = RequestHandler()
+
+    headers = {
+        'Content-Type': 'application/json',
+        'GoUsrNo': 'WZY',
+    }
+    response = requests.post('http://172.16.5.10/apim/v2/auth/login', headers=headers, json=payload,
+                             verify=False)
+    print("访问状态码", response.status_code)
+
+    token = req.visit("post", url, json=payload, headers=headers, ).json()["data"]["token"]
+
+    headers["Authorization"] = token
+
+    # print("token", token)
+
+    SalesOrderDemand_response = req.visit("post",
+                                          "http://172.16.5.10/apim/v2/scene/supplychain-planner/Model03/computeExprDatas",
+                                          json={
+                                              'SalesOrderDemand': {
+                                                  'condition': '',
+                                                  'sort': '',
+                                                  'computeExprs': {},
+                                                  '__page': {
+                                                      'num': 1,
+                                                      'size': 300,
+                                                  },
+                                              },
+                                          }, headers=headers).json()["data"]
+
+    SalesOrderDemand_dict = SalesOrderDemand_response['SalesOrderDemand']
+
+    SalesOrderDemand_list = SalesOrderDemand_dict['rows']
+
+    print(SalesOrderDemand_list)
+
+    dueDate = [item['dueDate'] for item in SalesOrderDemand_list]
+    print('订单交期', dueDate)
